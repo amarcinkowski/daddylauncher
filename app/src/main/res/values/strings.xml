@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">daddylauncher</string>
+    <string name="contacts">@string/fa_icon_user</string>
+</resources>
