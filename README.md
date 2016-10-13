@@ -2,8 +2,8 @@
 ## Android 6.0 Marshmallow Launcher for my dad
 
 ### Covered
-* big dial
-* big contact list (favourites)
+* auto set dad's favourite ringtone (Wyścig Pokoju / Course de la Paix) radio theme
+* big dial & contact list (favourites)
 * sms loud reading
 
 ### TODO
